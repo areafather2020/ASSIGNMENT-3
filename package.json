@@ -1,0 +1,16 @@
+{
+  "name": "week-3",
+  "version": "1.0.0",
+  "description": "React assigment for week 3",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next"
+  },
+  "author": "Edward Brew",
+  "license": "ISC",
+  "dependencies": {
+    "next": "^9.5.2",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  }
+}
